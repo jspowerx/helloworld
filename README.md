@@ -1,2 +1,2 @@
 # helloworld
-Demo package for Code Friend
+Demo package for JSPower
